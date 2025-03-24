@@ -1,16 +1,11 @@
-# ppb_1
+# Journaling App
 
-A new Flutter project.
+Nama : Wardatul Amalia Safitri </br>
+NRP : 5025211006
 
-## Getting Started
+Pada tugas ini saya membuat Journaling App yang dapat membutuhkan input berupa Title dan Content untuk membuat journal baru. Setiap journal akan ditamplkan dalam bentuk list dan dapat diedit serta dihapus.
 
-This project is a starting point for a Flutter application.
+<img width="342" alt="image" src="https://github.com/user-attachments/assets/d58b6932-b66d-4214-90f8-8e88517e26ad" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut adalah video demo project yang telah saya buat
+https://youtu.be/7dOI77hFkP4
