@@ -3,5 +3,5 @@
 Nama : Wardatul Amalia Safitri </br>
 NRP : 5025211006
 
-Assignment 1 : Open ppb_1
+Assignment 1 : Open ppb_1 </br>
 Assignmet 2 (SQFlite) : Open ppb_2
